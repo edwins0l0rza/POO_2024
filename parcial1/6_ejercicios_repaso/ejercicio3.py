@@ -4,7 +4,7 @@
 
 respuesta="si"
 while respuesta == "si":
- print("Ingrese un nuemro del 0 al 59: ")
+ print("Ingrese un numero del 0 al 59: ")
  numero = int(input(""))
 
  cuadrado = numero**2
