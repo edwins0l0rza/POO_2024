@@ -11,3 +11,5 @@ print(continente)
 print(input("Presione enter para saber el tipo de dato"))
 print(type(pais))
 print(type(continente))
+
+X=30555
