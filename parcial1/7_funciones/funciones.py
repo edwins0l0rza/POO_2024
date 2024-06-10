@@ -47,10 +47,14 @@ n1=int(input("Numero #1:"))
 n2=int(input("Numero #2:"))
 sumaNumeros3(n1,n2)"""
 #4.- Funcion que recibe parametros y regresa valor
-def sumaNumeros4(n1,n2):
+"""def sumaNumeros4(n1,n2):
     suma=n1+n2
     return f"{n1}+{n2}={suma}"
 
 n1=int(input("Numero #1:"))
 n2=int(input("Numero #2:"))
-print(sumaNumeros4(n1,n2))
+print(sumaNumeros4(n1,n2))"""
+
+#Ejemplo 6 Crear un programa que solicite a traves de una funcion la siguiente
+# informacion: Nombre del Paciente, Edad, Estatura, Tipo de Sangre, utilizar 
+# los 4 tipos de funciones
